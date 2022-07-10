@@ -1,0 +1,42 @@
+.App-body {
+  background-color: #141414;
+  color: white;
+  height: 88vh;
+  padding: 3rem 0;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  height: 12vh;
+  padding-left: 1rem;
+}
+
+.App-input {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-submit {
+  background-color: #497fd6;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  display: block;
+  font-family: sans-serif;
+  font-size: xx-large;
+  margin: 1rem auto;
+  padding: 10px;
+  text-shadow: 1px 1px gray;
+}
